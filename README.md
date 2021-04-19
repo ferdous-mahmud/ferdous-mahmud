@@ -18,13 +18,15 @@
 <br />
 
 <a href="https://github.com/ferdous-webdev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-webdev&layout=compact&theme=material-palenight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ferdous-webdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ferdous-webdev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ferdous's github stats" />
 </a>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ferdous-webdev/github-readme-stats)*
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ferdous's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ferdous-webdev&show_icons=true&hide_border=true" />
 
 
