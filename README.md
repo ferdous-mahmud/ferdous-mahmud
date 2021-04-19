@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-webdev&layout=compact&theme=material-palenight" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://github.com/ferdous-webdev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ferdous-webdev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ferdous's github stats" />
