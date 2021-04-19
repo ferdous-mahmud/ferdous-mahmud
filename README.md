@@ -1,13 +1,13 @@
 # Hi there,I'm  Ferdous Mahmud Akash 👋
 
-### Currently I am a second year CS student, Self Learner, Tech Lover!!
+### Currently I am a second year CS student & highly passionate self Learner!!
 
 - 🔭 I’m currently working on bYgame
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate with other self learners
-- 📫 How to reach me **ferdous.webdev@gmail.com**
 - 🥅 2021 Goals: Learn three new stacks 
-- ⚡ Fun fact: I love to  😂
+- 📫 How to reach me **ferdous.webdev@gmail.com**
+- 👯 I’m looking to collaborate with other self learners
+- ⚡ Fun fact: I can't stop procastination 😂
 
 ### Spotify Playing 🎧
 
