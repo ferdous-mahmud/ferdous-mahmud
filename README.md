@@ -18,9 +18,9 @@
 <br />
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Ferdous's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ferdous-webdev&show_icons=true&hide_border=true" />
 
-</details>
+
