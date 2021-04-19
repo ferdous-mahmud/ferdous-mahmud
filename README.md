@@ -1,6 +1,6 @@
 ### Hi there,I'm  Ferdous Mahmud Akash 👋
 
-## I'm a CS Student, Self Learner, Tech Lover!!
+## Currently I am a second year CS student, Self Learner, Tech Lover!!
 
 - 🔭 I’m currently working on bYgame
 - 🌱 I’m currently learning Flutter
@@ -21,6 +21,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ferdous's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ferdous-webdev&show_icons=true&hide_border=true" />
 
 </details>
