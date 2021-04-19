@@ -1,6 +1,6 @@
 # Hi there,I'm  Ferdous Mahmud Akash 👋
 
-### Currently I am a second year CS student & highly passionate self Learner!!
+### ⭐  Currently I am a second year CS student & highly passionate self Learner!!
 
 - 🔭 I’m currently working on bYgame
 - 🌱 I’m currently learning Flutter
