@@ -2,9 +2,9 @@
 
 ### ⭐  Currently I am a second year CS student & highly passionate self Learner!!
 
-- 🔭 I’m currently working on bYgame
-- 🌱 I’m currently learning Flutter
-- 🥅 2021 Goals: Learn three new stacks 
+- 🔭 I’m currently working on byGame
+- 🌱 I’m currently learning IOS dev.
+- 🥅 2022 Goals: Reach 1k subscriber on Youtube 
 - 📫 How to reach me **ferdous.webdev@gmail.com**
 - 👯 I’m looking to collaborate with other self learners
 - ⚡ Fun fact: I can't stop procastination 😂
@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ferdous Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gf2qsxksnvtz5jbcy24uje3him&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 <p align="left">
@@ -44,10 +44,10 @@
 <br />
 <br />
 
-<a href="https://github.com/ferdous-webdev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ferdous-webdev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ferdous's github stats" />
+<a href="https://github.com/ferdous-mahmud/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ferdous-mahmud&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ferdous's github stats" />
 </a>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ferdous-webdev/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ferdous-mahmud/github-readme-stats)*
 
 
