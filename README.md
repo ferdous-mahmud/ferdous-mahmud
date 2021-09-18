@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gf2qsxksnvtz5jbcy24uje3him&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gf2qsxksnvtz5jbcy24uje3him&cover_image=true&theme=novatorem)](https://github.com/ferdous-mahmud/spotify-github-profile)
 
 ### Languages and Tools:
 <p align="left">
@@ -37,8 +37,8 @@
 
 <br />
 
-<a href="https://github.com/ferdous-webdev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-webdev&layout=compact&theme=material-palenight" />
+<a href="https://github.com/ferdous-mahmud/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-mahmud&layout=compact&theme=material-palenight" />
 </a>
 
 <br />
