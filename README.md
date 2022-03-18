@@ -9,9 +9,6 @@
 - 👯 I’m looking to collaborate with other self learners
 - ⚡ Fun fact: I can't stop procastination 😂
 
-## Find me around the web 🌍
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://www.facebook.com/ferdous1919/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ferdous19) [<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/Ferdous_19) [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/14887660/ferdous)  [<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>](https://medium.com/@ferdous.webdev)
-
 
 <a href="https://github.com/ferdous-mahmud/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-mahmud&layout=compact&theme=material-palenight" />
