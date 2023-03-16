@@ -1,22 +1,17 @@
-# Hi there,I'm  Ferdous Mahmud Akash 👋
+<div align="center">
 
-### ⭐  Currently I am a Third year CS student & highly passionate self Learner!!
+[![][logo-url]][website-url]  
+**iOS Developer Blog**  
 
-- 🔭 I’m currently working on byGame
-- 🌱 I’m currently learning iOS Dev.
-- 🥅 2022 Goals: Reach 1k subscriber on Youtube 
-- 📫 How to reach me **ferdous.webdev@gmail.com**
-- 👯 I’m looking to collaborate with other self learners
-- ⚡ Fun fact: I can't stop procastination 😂
+<a href="mailto:admin@ferdous.tech?subject=[GitHub]%20🔥%20Getting%20in%20touch&body=Hi%20Ferdous%2C%0A%0AI%20come%20to%20you%20today%20after%20seeing%20your GitHub%20profile%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ferdous19"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/ferdous_19"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
+</div>
 
-<a href="https://github.com/ferdous-mahmud/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdous-mahmud&layout=compact&theme=material-palenight" />
-</a>
+[![][banner-url]][website-url]
 
-<br />
-<br />
+[website-url]: https://ferdous.tech
+[logo-url]: https://cdn.sanity.io/images/zt9eywci/production/7d33f10e8e7866b13ba307c1dc43e6fb9e1759cf-222x85.svg
+[banner-url]: https://user-images.githubusercontent.com/62091371/225525943-2a0b4dcd-9949-4d30-930d-7622cf118b49.svg
 
-<a href="https://github.com/ferdous-mahmud/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ferdous-mahmud&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ferdous's github stats" />
-</a>
