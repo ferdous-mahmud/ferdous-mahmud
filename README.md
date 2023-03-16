@@ -13,5 +13,5 @@
 
 [website-url]: https://ferdous.tech
 [logo-url]: https://cdn.sanity.io/images/zt9eywci/production/7d33f10e8e7866b13ba307c1dc43e6fb9e1759cf-222x85.svg
-[banner-url]: https://user-images.githubusercontent.com/62091371/225525943-2a0b4dcd-9949-4d30-930d-7622cf118b49.svg
+[banner-url]: https://user-images.githubusercontent.com/62091371/225542318-0479bc03-264f-4103-aa7c-8c2c8de3555c.png
 
